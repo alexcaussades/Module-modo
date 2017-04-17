@@ -1,0 +1,29 @@
+[16-Apr-2017 21:22:17 Europe/Paris] PHP Warning:  require(/fonction/connect.php): failed to open stream: No such file or directory in /home/alexcaus/public_html/modos/fonction/tableaumodo.php on line 18
+[16-Apr-2017 21:22:17 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:22:17 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
+[16-Apr-2017 21:22:17 Europe/Paris] PHP   2. require() /home/alexcaus/public_html/modos/template/pages/note.php:13
+[16-Apr-2017 21:22:17 Europe/Paris] PHP Fatal error:  require(): Failed opening required '/fonction/connect.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alexcaus/public_html/modos/fonction/tableaumodo.php on line 18
+[16-Apr-2017 21:22:17 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:22:17 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
+[16-Apr-2017 21:22:17 Europe/Paris] PHP   2. require() /home/alexcaus/public_html/modos/template/pages/note.php:13
+[16-Apr-2017 21:24:14 Europe/Paris] PHP Warning:  require(fonction/connect.php): failed to open stream: No such file or directory in /home/alexcaus/public_html/modos/fonction/tableaumodo.php on line 18
+[16-Apr-2017 21:24:14 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:24:14 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
+[16-Apr-2017 21:24:14 Europe/Paris] PHP   2. require() /home/alexcaus/public_html/modos/template/pages/note.php:13
+[16-Apr-2017 21:24:14 Europe/Paris] PHP Warning:  require(fonction/connect.php): failed to open stream: No such file or directory in /home/alexcaus/public_html/modos/fonction/tableaumodo.php on line 18
+[16-Apr-2017 21:24:14 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:24:14 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
+[16-Apr-2017 21:24:14 Europe/Paris] PHP   2. require() /home/alexcaus/public_html/modos/template/pages/note.php:13
+[16-Apr-2017 21:24:14 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'fonction/connect.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alexcaus/public_html/modos/fonction/tableaumodo.php on line 18
+[16-Apr-2017 21:24:14 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:24:14 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
+[16-Apr-2017 21:24:14 Europe/Paris] PHP   2. require() /home/alexcaus/public_html/modos/template/pages/note.php:13
+[16-Apr-2017 21:51:05 Europe/Paris] PHP Warning:  require(fonction/tableaumodo.php): failed to open stream: No such file or directory in /home/alexcaus/public_html/modos/template/pages/note.php on line 13
+[16-Apr-2017 21:51:05 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:51:05 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
+[16-Apr-2017 21:51:05 Europe/Paris] PHP Warning:  require(fonction/tableaumodo.php): failed to open stream: No such file or directory in /home/alexcaus/public_html/modos/template/pages/note.php on line 13
+[16-Apr-2017 21:51:05 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:51:05 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
+[16-Apr-2017 21:51:05 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'fonction/tableaumodo.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alexcaus/public_html/modos/template/pages/note.php on line 13
+[16-Apr-2017 21:51:05 Europe/Paris] PHP Stack trace:
+[16-Apr-2017 21:51:05 Europe/Paris] PHP   1. {main}() /home/alexcaus/public_html/modos/template/pages/note.php:0
