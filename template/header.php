@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-	<meta charset="utf8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="googlebot" content="noindex">
-	<meta name="author" content="alexcaussades" />
-	<meta name="language" content="FR" />
-	<meta name="copyright" content="alexcaussades™ © 2017" />
-  <title>AtroGuiZone | Site pour les modos de chez atrocioucat, guigui77160, zone2game.</title>
-	<meta name="description" content="AtroGuiZone Site pour les modos de chez atrocioucat, guigui77160, zone2game." />
+<meta charset="utf8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="googlebot" content="noindex">
+<meta name="author" content="alexcaussades" />
+<meta name="language" content="FR" />
+<meta name="copyright" content="alexcaussades™ © 2017" />
+<title>AtroGuiZone | Site pour les modos de chez atrocioucat, guigui77160, zone2game.</title>
+<meta name="description" content="AtroGuiZone Site pour les modos de chez atrocioucat, guigui77160, zone2game." />
 
     <!-- CSS FILES -->
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
